@@ -1,0 +1,1 @@
+import{j as s}from"./index-YZeWWBT6.js";const e=({link:a})=>s.jsxs("div",{className:"navi__line",children:[s.jsx("a",{href:"#",className:"navi__icon",children:s.jsx("span",{})}),s.jsx("span",{className:"navi__arrow"}),s.jsx("a",{href:"#",className:"navi__item",children:s.jsx("span",{children:a})})]});export{e as N};

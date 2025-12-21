@@ -1,1 +1,0 @@
-import{j as e}from"./index-RmXZSNAa.js";const a=({type:s})=>e.jsx("div",{className:"productPage",children:e.jsx("div",{className:"container",children:e.jsxs("div",{className:"productPage__content",children:[e.jsx("h1",{className:"page__title",children:"Welcome to Nice Gadgets store!"}),e.jsx("div",{className:"page__sections"})]})})});export{a as ProductPage};

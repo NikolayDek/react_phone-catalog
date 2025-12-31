@@ -1,1 +1,0 @@
-import{d as n,r as e,j as a,L as t}from"./index-DfDw00nb.js";const i=()=>{const s=n(),c=e.useCallback(()=>{s(-1)},[s]);return a.jsxs(t,{to:"#",className:"back__line",onClick:c,children:[a.jsx("span",{className:"back__arrow"}),a.jsx("div",{className:"back__link",children:a.jsx("span",{children:"Back"})})]})};export{i as B};

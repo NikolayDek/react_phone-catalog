@@ -1,0 +1,1 @@
+import{e,r as n,j as a,L as t}from"./index-D_UFh_Pb.js";const i=()=>{const s=e(),c=n.useCallback(()=>{s(-1)},[s]);return a.jsxs(t,{to:"#",className:"back__line",onClick:c,children:[a.jsx("span",{className:"back__arrow"}),a.jsx("div",{className:"back__link",children:a.jsx("span",{children:"Back"})})]})};export{i as B};
